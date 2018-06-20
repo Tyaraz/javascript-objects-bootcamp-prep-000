@@ -5,8 +5,8 @@ var playlist = {
 
 function updatePlaylist (playlist, artistName, songTitle){
   
- 
-  return obj
+ playlist:
+  return playlist
   
 }
 
