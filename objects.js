@@ -10,4 +10,4 @@ function updatePlaylist (obj, key, value){
   
 }
 
-updatePlaylist(playlist, Adele, "Hello")
+updatePlaylist(playlist, "Adele" , "Hello")
