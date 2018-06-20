@@ -1,5 +1,5 @@
 var playlist = {
-  Britney : "Toxic"
+  "Britney" : "Toxic"
 };
 
 
