@@ -1,6 +1,5 @@
 var playlist = {
   Britney : "Toxic"
-  Sam : "Too"
 };
 
 
