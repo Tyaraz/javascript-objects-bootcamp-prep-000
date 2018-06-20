@@ -13,10 +13,7 @@ function updatePlaylist (playlist, artistName, songTitle){
 
 function removeFromPlaylist (playlist, artistName){
   
-  playlist.Britney=[""];
-  playlist.Sam=[""];
-  playlist.Adele=[""];
-  
+  delete
   return obj
 }
 
