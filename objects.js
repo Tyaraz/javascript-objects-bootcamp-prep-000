@@ -1,5 +1,5 @@
 const playlist = {
-  "Britney" : "Toxic"
+  Britney : "Toxic"
 }
 
 
