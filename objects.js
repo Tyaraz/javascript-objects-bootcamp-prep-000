@@ -1,7 +1,7 @@
 var playlist = {
   Britney:'Toxic';
   Beyonce:'Single Ladies';
-}
+};
 
 function updatePlaylist(playlist, artistName, songTitle) {
   return playlist;
