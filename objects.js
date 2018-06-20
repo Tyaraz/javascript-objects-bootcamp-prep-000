@@ -4,14 +4,14 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artistName]=song;
+  playlist[artistName]=song
   return playlist
 }
 
-updatePlaylist(playlist, 'Adele', 'Hello')
+//updatePlaylist(playlist, 'Adele', 'Hello')
 
 function removeFromPlaylist(playlist, artistName) {
-  delete playlist[artistName];
-  return playlist;
+  delete playlist[artistName]
+  return playlist
 }
 
