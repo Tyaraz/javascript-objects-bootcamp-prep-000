@@ -1,6 +1,6 @@
 var playlist = {
   "Britney" : "Toxic"
-};
+}
 
 
 function updatePlaylist (playlist, artistName, songTitle){
