@@ -10,9 +10,8 @@ function updatePlaylist (playlist, artistName, songTitle){
   
 }
 
-updatePlaylist(playlist, Adele , "Hello");
 
-function removeFromPlaylist (obj, key){
+function removeFromPlaylist (playlist, artistName){
   
   playlist.Britney=[""];
   playlist.Sam=[""];
