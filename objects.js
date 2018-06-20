@@ -11,6 +11,15 @@ function updatePlaylist (obj, key, value){
   
 }
 
-updatePlaylist(playlist, "Adele" , "Hello")
+updatePlaylist(playlist, Adele , "Hello");
 
-function removeFromPlaylist
+function removeFromPlaylist (obj, key){
+  
+  playlist.Britney=[""];
+  playlist.Sam=[""];
+  playlist.Adele=[""];
+  
+  return obj
+}
+
+removeFromPlaylist ();
