@@ -1,5 +1,6 @@
 var playlist = {
   Britney : "Toxic"
+  Sam : "Too"
 };
 
 
@@ -11,3 +12,5 @@ function updatePlaylist (obj, key, value){
 }
 
 updatePlaylist(playlist, "Adele" , "Hello")
+
+function removeFromPlaylist
