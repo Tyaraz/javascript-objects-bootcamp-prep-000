@@ -1,4 +1,4 @@
-var playlist = {
+const playlist = {
   Britney:'Toxic',
   Beyonce:'Single'
 };
