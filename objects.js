@@ -5,7 +5,9 @@ var playlist = {
 
 function updatePlaylist (obj, key, value){
   
-  var 
-  return
+ 
+  return obj
   
 }
+
+updatePlaylist(playlist, Adele, "Hello")
